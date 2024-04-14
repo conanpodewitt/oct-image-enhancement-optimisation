@@ -1,4 +1,4 @@
-# OCT-Image-Enhancement-Optimisation
+# oct-image-enhancement-optimisation
 CITS4404 Assignment 2 @ The University of Western Australia
 
 Alian Haidar (22900426)\
